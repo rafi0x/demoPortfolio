@@ -31,7 +31,7 @@
 
         // pre-loader loading bar
         $('#pre-bar').barfiller({
-            duration: 2500
+            duration: 2000
         });
 
 
