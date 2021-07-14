@@ -1,0 +1,11 @@
+
+
+.return {
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0;
+}
+.return a i{
+    font-size: 2rem;
+    color: #707070;
+}
